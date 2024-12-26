@@ -1,0 +1,15 @@
+{
+  "name": "info-site",
+  "version": "1.0.0",
+  "description": "Node.js informational site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
